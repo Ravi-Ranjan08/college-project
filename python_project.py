@@ -1,3 +1,6 @@
+#Name: Ravi Ranjan
+#ERP: RU-26-02020
+#Section: 1-N
 purchases = {
     "Amit": ["Laptop", "Mouse", "Keyboard"],
     "Bina": ["Laptop", "Mouse", "Headphones"],
