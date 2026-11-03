@@ -7,6 +7,11 @@ A simple console-based recommendation system written in **Python 3**. It finds t
 **Concepts Used:** Dictionaries, Sets, Lists, Functions
 
 ---
+## AUTHOR DETAILS
+#  Name: Ravi Ranjan
+# ERP: RU-26-02020
+# Email: ravi.ranjan@rungta.org
+# Section: 1N
 
 ## Table of Contents
 
